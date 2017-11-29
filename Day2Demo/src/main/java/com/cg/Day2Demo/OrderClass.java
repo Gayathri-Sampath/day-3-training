@@ -11,4 +11,9 @@ public class OrderClass {
 	{
 		System.out.println("show method");
 	}
+public void showall()
+{
+	System.out.println("show all the methods");
 }
+}
+
