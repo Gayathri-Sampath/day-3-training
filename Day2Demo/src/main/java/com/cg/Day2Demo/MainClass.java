@@ -7,7 +7,6 @@ public class MainClass {
 		obj.display();
 		obj.show();
 		obj.showall();
-		
 	    greetings();
 		
 
